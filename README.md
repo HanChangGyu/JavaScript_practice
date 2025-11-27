@@ -14,9 +14,9 @@
 
 📦 JavaScript_practice
  ┣ 📂 section01 (기초 문법)
- ┃ ┣ 📜 chapter3_자바스크립트
- ┃ ┗ 📜 chapter4_변수
+  ┃ ┣ 📜 chapter3_자바스크립트
+  ┃ ┗ 📜 chapter4_변수
  ┣ 📂 02_Advanced (심화 문법 & ES6)
- ┃ ┣ 📜 화살표_함수
- ┃ ┗ 📜 구조분해할당
+  ┃ ┣ 📜 화살표_함수
+  ┃ ┗ 📜 구조분해할당
  ┗ 📂 03_Async (비동기 처리)
