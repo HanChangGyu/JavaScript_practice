@@ -15,8 +15,8 @@ let introduce = myName + myLocation;
 
 // 이정환 + 목동
 
-
 let introduceText = `${myName}은 ${myLocation}에 거주합니다`; // 이정환은 목동에 거주합니다. 
+
 // 3. Booleane Type
 let isSwitchOn = true;
 let isEmpty = false;
